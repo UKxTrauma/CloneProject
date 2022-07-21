@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Demi';
+    src: local('Avalon Demi'), local('Avalon-Demi'),
+        url('Avalon-Demi.woff2') format('woff2'),
+        url('Avalon-Demi.woff') format('woff'),
+        url('Avalon-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

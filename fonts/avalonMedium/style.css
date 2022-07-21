@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Medium';
+    src: local('Avalon Medium'), local('Avalon-Medium'),
+        url('Avalon-Medium.woff2') format('woff2'),
+        url('Avalon-Medium.woff') format('woff'),
+        url('Avalon-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
